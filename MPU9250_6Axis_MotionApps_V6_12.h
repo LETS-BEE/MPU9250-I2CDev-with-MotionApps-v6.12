@@ -41,6 +41,7 @@ THE SOFTWARE.
 #define I2CDEVLIB_MPU9250_TYPDEF
 
 #include "MPU9250.h"
+#include "helper_3dmath.h"
 
 class MPU9250_6Axis_MotionApps20 : public MPU9250_Base {
     public:

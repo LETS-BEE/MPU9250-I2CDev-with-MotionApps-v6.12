@@ -38,7 +38,6 @@ THE SOFTWARE.
 #define _MPU9250_H_
 
 #include "I2Cdev.h"
-#include "helper_3dmath.h"
 
 #ifdef __AVR__
     #include <avr/pgmspace.h>
