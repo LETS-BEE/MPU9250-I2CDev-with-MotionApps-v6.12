@@ -1,1 +1,1 @@
-MPU9250-I2CDev-with-MotionApps-v6.12
+MPU9250 I2C Lib
